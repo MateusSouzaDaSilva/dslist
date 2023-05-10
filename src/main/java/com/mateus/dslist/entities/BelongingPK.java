@@ -1,6 +1,6 @@
 package com.mateus.dslist.entities;
 
-import java.util.Objects;
+
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
