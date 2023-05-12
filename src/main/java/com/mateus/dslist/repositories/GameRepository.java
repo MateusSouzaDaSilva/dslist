@@ -20,3 +20,5 @@ public interface GameRepository extends JpaRepository<Game, Long> {
             	""")
     List<GameMinProjection> searchByList(Long listId);
 }
+// postgresql://postgres:9A5tErXc4QVvkkjPhiwA@containers-us-west-79.railway.app:6383/railway
+// jdbc:postgresql://containers-us-west-79.railway.app:6383/railway
